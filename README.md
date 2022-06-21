@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yujia</h1>
-<h3 align="center">A passionate frontend developer from Australia</h3>
+<h3 align="center">Background in website localization/teaching. I have a great passion for frontend and am seeking a career transition into web development</h3>
 
 
-- 👯 I just finished learning **Ruby on Rails** in Le Wagon bootcamp
+- 👯 I just finished learning **Ruby on Rails** in Le Wagon coding bootcamp
 
-- 🔭 This is my final project [baybeME](http://www.baybe-me.me/)
+- 🔭 Building a childcare centre search engine and booking system [baybeME](http://www.baybe-me.me/)
 
 - 🌱 I’m currently learning **React**
 
