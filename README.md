@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yujia</h1>
-<h3 align="center">Background in website localization/teaching. I have a great passion for frontend and am seeking a career transition into web development</h3>
+<h3 align="center">Background in website localization. I have a great passion for frontend and am seeking a career transition into web development</h3>
 
 
 - 👯 I just finished learning **Ruby on Rails** in Le Wagon coding bootcamp
