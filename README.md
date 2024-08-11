@@ -2,9 +2,8 @@
 <h3 align="center">Background in website localization. I have a great passion for frontend and am seeking a career transition into web development</h3>
 
 
-- 👯 I just finished learning **Ruby on Rails**
+- 👯 I'm a current IT student majoring in software development
 
-- 🔭 Building a childcare centre search engine and booking system [baybeME](http://www.baybe-me.me/)
 
 - 🌱 I’m currently learning **React**
 
